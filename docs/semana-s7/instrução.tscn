@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://telainicial7.1.jpg" type="Texture" id=1]
+
+[node name="instrução" type="Node2D"]
+
+[node name="Telainicial71" type="Sprite" parent="."]
+position = Vector2( 540, 77 )
+scale = Vector2( 1, 0.971296 )
+texture = ExtResource( 1 )
